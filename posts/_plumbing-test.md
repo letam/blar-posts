@@ -1,0 +1,1 @@
+blar publish path works
